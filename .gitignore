@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs (your GUI generates payroll.log)
+*.log
+.payroll_logs/
+
+# Databases (runtime artifacts)
+*.db
+
+# Output files created during runs
+*.csv
+*.md
+
+# OS junk
+.DS_Store
+Thumbs.db
